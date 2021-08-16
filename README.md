@@ -25,7 +25,7 @@ The script took 0.148 seconds for the year 2017.
 
 The script took 0.140 seconds for the year 2018.
 
-Overall, after refactoring the code, the execution times prove to be much faster and more efficient than from results in the original script. The original script took over one second to complete.
+Overall, after refactoring the code, the execution times prove to be much faster and more efficient than from results in the original script. The original script took over one second to complete while the refactored code takes under 0.2 seconds.
 
 ## Summary
 
